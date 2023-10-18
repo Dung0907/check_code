@@ -1,0 +1,13 @@
+pickle
+doqu
+seaborn
+torch
+scikeras
+scikit-learn
+tensorflow
+numpy==1.24.0
+prettytable
+xgboost
+validators
+utils
+lightgbm
